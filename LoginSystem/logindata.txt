@@ -1,0 +1,10 @@
+username,password
+kid,kid
+bid,bid
+andi,andi
+lol,lol
+ddd,ddd
+aaaa,aaaa
+zzzz,zzzz
+asd,asd
+KID,KID
